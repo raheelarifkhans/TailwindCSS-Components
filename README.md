@@ -3,4 +3,4 @@ A collection of beautifully designed, expertly crafted components and templates 
 
 ------------
 Top Creator Avatar: **https://play.tailwindcss.com/kZbKjfs7A7**
-![img.png](img.png)
+![img.png](top-creator-avatar.png)
